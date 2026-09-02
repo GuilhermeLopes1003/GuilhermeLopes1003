@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi! I'm Guilherme Lopes 
 
-<!--
-**GuilhermeLopes1003/GuilhermeLopes1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student at PUC-Campinas** 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Engineering student at **PUC-Campinas (Brazil)**, interested in both Software Engineering and Hardware/Computer Systems. I am currently developing my skills in Python, C, Assembly, Data Structures, and Computer Architecture, while exploring different areas of technology and building projects to strengthen my knowledge.
+
+* 🎓 Computer Engineering student at PUC-Campinas, currently seeking internship opportunities in **Software Engineering, Development, and Hardware/Computer Systems**.
+* 🛠️ Building practical experience with Python, C, Assembly, Data Structures, and Computer Architecture through academic and personal projects.
+* 🚀 Passionate about learning new technologies, exploring different areas of computing, and developing practical projects to expand my skills.
+
+---
+
+## 🚀 Technologies & Tools
+
+### 💻 Languages & Technologies
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+### 🧩 Areas of Study
+- **Programming:** Python, C, and Object-Oriented Programming
+- **Data Structures:** Fundamental data structures and algorithms
+- **Computer Architecture:** Computer organization, digital logic, and low-level concepts
+- **Assembly:** Low-level programming and processor architecture
+- **Web Development:** Django and basic web application development
+- **Tools:** Git, GitHub, and VS Code
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeLopes1003&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" alt="Guilherme's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopes1003&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
