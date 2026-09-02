@@ -1,7 +1,5 @@
 # Hi! I'm Guilherme Lopes 
 
-**Computer Engineering Student at PUC-Campinas** 
-
 ## About Me
 
 I am a Computer Engineering student at **PUC-Campinas (Brazil)**, interested in both Software Engineering and Hardware/Computer Systems. I am currently developing my skills in Python, C, Assembly, Data Structures, and Computer Architecture, while exploring different areas of technology and building projects to strengthen my knowledge.
