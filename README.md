@@ -16,7 +16,10 @@ I am a Computer Engineering student at **PUC-Campinas (Brazil)**, interested in 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300A4EF.svg?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-%235A5A5A.svg?style=flat)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
