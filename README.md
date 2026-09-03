@@ -1,4 +1,4 @@
-# Hi! I'm Guilherme Lopes 
+# Hi! I'm Guilherme 
 
 ## About Me
 
